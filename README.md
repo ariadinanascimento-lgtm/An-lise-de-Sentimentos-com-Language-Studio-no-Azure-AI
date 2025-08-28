@@ -20,8 +20,8 @@ Este repositório contém as anotações e experimentos realizados durante o lab
   > "_[Welcome to English in a minute. If you've ever gardened, you know weeds grow super fast. They can take over a garden overnight. But what does grow like a weed mean in other situations? Hey Dan, do you want to see pictures from my trip home? Oh geez, I would love to, but great. This is me with my little cousin Arlo Little. He's taller than you. I know he is growing like a weed. He's only 10. Does he have a beard? To grow like a weed just means to grow very quickly. We mostly use this expression when talking about how fast children grow. And that's English in a minute. ]_"
 
 📂 Arquivos relacionados:  
-- `/speech/audio-teste.wav` (áudio enviado)  
-- `/speech/transcricao.txt` (texto retornado)  
+- `English in a Minute： Grow Like a Weed.mp3`
+
 
 ### 2. Insights
 - O serviço reconheceu bem as palavras, e não apresentou pequenas falhas.
