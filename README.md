@@ -24,7 +24,7 @@ Este repositório contém as anotações e experimentos realizados durante o lab
 
 
 ### 2. Insights
-- O serviço reconheceu bem as palavras, e não apresentou pequenas falhas.
+- O serviço reconheceu bem as palavras, e não apresentou  falhas.
 - É uma ótima ferramenta para criar legendas automáticas e suporte à acessibilidade.  
 
 ## 📚 Aprendizados
