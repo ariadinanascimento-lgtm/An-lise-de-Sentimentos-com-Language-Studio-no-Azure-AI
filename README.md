@@ -1,4 +1,4 @@
-# Desafio DIO - Azure Speech e Language Studio
+# Desafio DIO - Azure Speech
 
 Este repositório contém as anotações e experimentos realizados durante o laboratório da DIO com **Azure AI Speech Studio** e **Language Studio**, explorando soluções de inteligência artificial voltadas para voz e linguagem.
 
