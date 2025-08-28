@@ -5,8 +5,8 @@ Este repositório contém as anotações e experimentos realizados durante o lab
 ## 🎯 Objetivo
 - Praticar o uso de ferramentas de IA do Azure (Speech Studio e Language Studio);
 - Realizar testes de **conversão de fala em texto (Speech to Text)**;
-- Documentar os resultados obtidos e compartilhar aprendizados.
-
+- Documentar os resultados obtidos e compartilhar os aprendizados.
+  
 ## 🛠️ Ferramentas Utilizadas
 - [Azure Speech Studio](https://speech.microsoft.com/portal/speechtotexttool)  
 - Azure Language Studio  
